@@ -4,6 +4,6 @@ int main(){
     using namespace std ;
     int apples ;
     cin >> apples ;
-    cout<<apples;
+    cout << apples;
     return 0;
 }

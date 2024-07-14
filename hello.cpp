@@ -1,6 +1,6 @@
 #include<iostream>
 int main(){
     using namespace std;
-    cout << "Hello world" <<endl;
+    cout << "Hello world" <<"/n"<< "ehello";
     return 0 ;
 }

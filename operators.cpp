@@ -10,5 +10,10 @@ int main(){
     cout << num1/num2 <<endl; //1
     cout << num1%num2 <<endl; //0
 
+
+    cout << (num1==num2) <<endl; // true 1
+    cout << (num1!=num2) <<endl; //false 0
+    cout << (num1 <=num2) <<endl; //true 1
+
     return 0;
 }
